@@ -17,4 +17,4 @@ _**Higher Secondary**_ - D. A. V. Public School, B. R. S. Nagar, Ludhiana
 - [Trip to Ladakh](https://codebyjsa.github.io/trip-to-ladakh/)
 
 ## Achievements
-- [Excel for Beginners]() by Great Learning
+- [Excel for Beginners](Excel_for_Beginners.md) by Great Learning
